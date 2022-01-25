@@ -1,6 +1,6 @@
 # GitKraken Clone Example Repo
 ## Featuring Moby Dick
-
+Example of succesful Git Push
 ### Hi there and thanks for exploring Git and GitKraken 👋
 
 **How to use this repository:**
